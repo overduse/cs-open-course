@@ -15,7 +15,7 @@ Welcome to my learning repository for open courses. This repository contains my 
 
 1. Missing Semester - [Course Link](https://missing.csail.mit.edu/)
 
-2. Linear Algebra FALL 2011 - [Course Link](https://missing.csail.mit.edu/)
+2. Linear Algebra Fall 2011 - [Course Link](https://missing.csail.mit.edu/)
 
 3. GAMES101 Spring 2020 - [Course Link](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
 
@@ -25,13 +25,13 @@ Welcome to my learning repository for open courses. This repository contains my 
 
 - [ ] Missing Semester
 
-- [ ] Linear Algebra
+- [ ] Linear Algebra Fall 2011
 
 - [ ] Games101 Spring 2020
 
 
 ## Resources
 
-* [csdiy](https://csdiy.wiki/)   : A Collection of High-Quality CS Courses from Domestic and International Sources.
+* [csdiy](https://csdiy.wiki/): A Collection of High-Quality CS Courses from Domestic and International Sources.
 
 * [oi-wiki](https://oi-wiki.org/): **OI Wiki** aims to be a free, open, and continuously updated knowledge hub for competitive programming.
