@@ -1,8 +1,9 @@
-#!/bin/usr/python
+#!/usr/bin/env python3
 
 """
-The script reads user input,
-converts the input to lowercase, and prints the result.
+The script reads user input, converts the input to lowercase,
+and prints the result.
+
 """
 
 
