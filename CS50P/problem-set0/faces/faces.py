@@ -9,10 +9,10 @@ Description:
 """
 
 def main():
-    usr_intput = input()
-    usr_intput = usr_intput.replace(':)', '🙂')
-    usr_intput = usr_intput.replace(':(', '🙁')
-    print(usr_intput)
+    usr_input = input()
+    usr_input = usr_input.replace(':)', '🙂')
+    usr_input = usr_input.replace(':(', '🙁')
+    print(usr_input)
 
 if __name__ == '__main__':
     main()
