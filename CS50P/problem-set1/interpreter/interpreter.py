@@ -12,16 +12,16 @@ def main():
     expression = input("Expression: ").strip()
     x, y, z = expression.split(' ')
     if(y=='+'):
-        result = int(x) + int(y)
+        result = int(x) + int(z)
         print(f"{result:>.1f}")
     elif(y=='-'):
-        result = int(x) - int(y)
+        result = int(x) - int(z)
         print(f"{result:>.1f}")
     elif(y=='*'):
-        result = int(x) * int(y)
+        result = int(x) * int(z)
         print(f"{result:>.1f}")
     elif(y=='/'):
-        result = float(x) / float(y)
+        result = float(x) / float(z)
         print(f"{result:>.1f}")
 
 
