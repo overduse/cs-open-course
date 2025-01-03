@@ -1,6 +1,13 @@
 #!/usr/bin/env python3
 import random
 
+"""
+File: game.py
+Description:
+    Guessing Game.
+
+"""
+
 def generate_num():
     while True:
         try:
