@@ -1,6 +1,15 @@
 from datetime import date
 import sys
 
+"""
+file: seasons.py
+Description:
+    Calculates the number of minutes from a user's date
+    of birth to the current date.
+
+"""
+
+
 def main():
 
     usr_input = get_birthday()
